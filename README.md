@@ -1,3 +1,3 @@
 # ESP32-GPIO-list
 
-[ESP-GPIO list](https://docs.google.com/spreadsheets/d/e/2PACX-1vRj58tr1VHmS5zODI70DCjMSNKzu-qeYzLH4U_9YIMgJ2JpOkEDhp28VOD5Dg9VjuwVlpTZXa4KqwzA/pubhtml?gid=353707857&single=true)
+[ESP-GPIO list](https://docs.google.com/spreadsheets/d/1YNM0ygJRb-AnxUBC7ivR3uWTbxw-iHu1eqr2sKyIV5o/edit?usp=sharing)
