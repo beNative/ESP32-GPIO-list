@@ -35,7 +35,7 @@ Here are the pinouts of the adapter boards for these modules:
 
 ![Lolin32](https://raw.githubusercontent.com/beNative/ESP32-GPIO-list/main/images/Lolin32.png)
 
-# TTGO modules
+# LILYGO TTGO modules
 
 ![TTGO T-MICRO32](https://raw.githubusercontent.com/beNative/ESP32-GPIO-list/main/images/TTGO-T-MICRO32.png)
 
