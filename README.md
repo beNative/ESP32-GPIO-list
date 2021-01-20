@@ -35,7 +35,7 @@ Here are the pinouts of the adapter boards for these modules:
 
 ![M5Stack CORE BACK](https://raw.githubusercontent.com/beNative/ESP32-GPIO-list/main/images/M5Stack-CORE-BACK.png)
 
-![M5Stack CORE GPIO mappings](https://raw.githubusercontent.com/beNative/ESP32-GPIO-list/main/images/ODROID-GO-GPIO-mappings.png)
+![M5Stack CORE GPIO mappings](https://raw.githubusercontent.com/beNative/ESP32-GPIO-list/main/images/M5Stack-CORE-GPIO-mappings.png)
 
 # ODROID GO
 
