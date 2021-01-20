@@ -12,6 +12,8 @@ On Google Sheets I maintain a document with the GPIO pin mappings of the ESP32 M
 
 Here are the pinouts of the ESP32 modules made by Espressif (ESP-WROOM-32 and ESP32-WROVER):
 
+![ESP-WROOM-32](https://github.com/beNative/)
+
 [ESP32 Espressif modules on Google Sheets](https://docs.google.com/spreadsheets/d/1YUnQfJvdDMdRCu7VHqtJBmLtFFmX27PLtTgcogA0_5w/edit?usp=sharing)
 
 Here are the pinouts of the adapter boards for these modules:
