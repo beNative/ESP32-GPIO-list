@@ -29,6 +29,18 @@ Here are the pinouts of the adapter boards for these modules:
 
 [ESP32 adapter boards on Google Sheets](https://docs.google.com/spreadsheets/d/1pfcyDsA-za32Rq5lNlfk5DdaT3g35VYemNeNMLWb6TQ/edit?usp=sharing)
 
+# WeMoS Lolin modules
+
+![Lolin32 Lite](https://raw.githubusercontent.com/beNative/ESP32-GPIO-list/main/images/Lolin32-Lite.png)
+
+![Lolin32](https://raw.githubusercontent.com/beNative/ESP32-GPIO-list/main/images/Lolin32.png)
+
+# TTGO modules
+
+![TTGO T-MICRO32](https://raw.githubusercontent.com/beNative/ESP32-GPIO-list/main/images/TTGO-T-MICRO32.png)
+
+![TTGO T-Display](https://raw.githubusercontent.com/beNative/ESP32-GPIO-list/main/images/TTGO-T-DISPLAY.png)
+
 # M5Stack
 
 ![M5Stack CORE FRONT](https://raw.githubusercontent.com/beNative/ESP32-GPIO-list/main/images/M5Stack-CORE-FRONT.png)
