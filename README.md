@@ -8,7 +8,7 @@ On Google Sheets I maintain a document with the GPIO pin mappings of the ESP32 M
 - DOIT ESP32 DEVKIT V1
 - TTGI VGA32
 
-[ESP-GPIO list on Google Sheets](https://docs.google.com/spreadsheets/d/1YNM0ygJRb-AnxUBC7ivR3uWTbxw-iHu1eqr2sKyIV5o/edit?usp=sharing)
+[ESP32-GPIO list on Google Sheets](https://docs.google.com/spreadsheets/d/1YNM0ygJRb-AnxUBC7ivR3uWTbxw-iHu1eqr2sKyIV5o/edit?usp=sharing)
 
 Here are the pinouts of the ESP32 modules made by Espressif (ESP-WROOM-32 and ESP32-WROVER):
 
