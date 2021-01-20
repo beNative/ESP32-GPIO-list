@@ -19,7 +19,7 @@ Here are the pinouts of the ESP32 modules made by Espressif (ESP-WROOM-32 and ES
 
 Here are the pinouts of the adapter boards for these modules:
 
-![ESP-WROOM-32-Adapter(]https://raw.githubusercontent.com/beNative/ESP32-GPIO-list/main/images/ESP-WROOM32-Adapter.png)
+![ESP-WROOM-32-Adapter](https://raw.githubusercontent.com/beNative/ESP32-GPIO-list/main/images/ESP-WROOM32-Adapter.png)
 
 ![ESP32-WROVER-Adapter](https://raw.githubusercontent.com/beNative/ESP32-GPIO-list/main/images/ESP32-WROVER-Adapter.png)
 
